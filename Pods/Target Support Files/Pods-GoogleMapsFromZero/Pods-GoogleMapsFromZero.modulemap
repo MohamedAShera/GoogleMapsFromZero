@@ -1,0 +1,6 @@
+module Pods_GoogleMapsFromZero {
+  umbrella header "Pods-GoogleMapsFromZero-umbrella.h"
+
+  export *
+  module * { export * }
+}
